@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="1"
+    android:orientation="vertical"
+    tools:context="com.rika.semarangrs.MenuUtama">
+
+    <ImageView
+        android:background="#4cb9b9"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:id="@+id/umum"
+        android:src="@drawable/umum"
+        android:onClick="onclick"/>
+
+    <TextView
+        android:id="@+id/text1"
+        android:background="#4cb9b9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textAlignment="center"
+        android:text="Rumah Sakit UMUM" />
+
+    <ImageView
+        android:id="@+id/bpjs"
+        android:background="#e1a93a"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:onClick="masuk2"
+        android:src="@drawable/bpjs" />
+    <TextView
+        android:id="@+id/text2"
+        android:background="#e1a93a"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textAlignment="center"
+        android:text="Rumah Sakit BPJS" />
+
+</LinearLayout>

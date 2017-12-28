@@ -1,0 +1,318 @@
+<resources>
+    <string name="app_name">SemarangRS</string>
+    <string name="informasi">Fasilitas RS : </string>
+    <string name="fasilitas">Layanan RS : </string>
+    <string-array name="koordinat_umum">
+        <item>-6.993649, 110.407333</item>
+        <item>-7.008252, 110.419261</item>
+        <item>-6.996811, 110.405028</item>
+        <item>-6.988018, 110.426464</item>
+        <item>-7.001121, 110.427908</item>
+        <item>-6.956252,110.460759</item>
+    </string-array>
+    <string-array name="judul_rs">
+        <item>Rumah Sakit Umum Kariadi</item>
+        <item>Rumah Sakit St Elisabeth</item>
+        <item>Rumah Sakit William Booth</item>
+        <item>Rumah Sakit Telogorejo</item>
+        <item>Rumah Sakit Roemani</item>
+        <item>Rumah Sakit Islam Sultan Agung</item>
+    </string-array>
+    <string-array name="keterangan_rs">
+        <item>"MENJADI RUMAH SAKIT PENDIDIKAN DAN RUJUKAN NASIONAL YANG UNGGUL"</item>
+        <item>"MENJADI RUMAH SAKIT YANG MENGUTAMAKAN KESELAMATAN DAN TERPERCAYA SERTA MENJADI SARANA KEHADIRAN CINTA DAN KUASA ALLAH"</item>
+        <item>"Terciptanya suatu pelayanan kesehatan yang optimal untuk meningkatkan derajat kesehatan bagi setiap orang berdasarkan kasih tanpa diskriminasi"</item>
+        <item>"MENJADI RUMAH SAKIT PILIHAN UTAMA"</item>
+        <item>"Terwujudnya Rumah Sakit terkemuka berkualitas global dengan pelayanan prima yang dijiwai nilai-nilai islam, didukung oleh pendidikan dan aplikasi teknologi mutakhir"</item>
+        <item>"Rumah Sakit Islam terkemuka dalam pelayanan kesehatan yang selamat menyelamatkan, pelayanan pendidikan membangun generasi khaira ummah dan pengembangan peradaban Islam menuju masyarakat sehat sejahtera yang dirahmati Allah"</item>
+    </string-array>
+    <string-array name="detail_rs">
+        <item>
+            1. Rawat Jalan\n
+            2. Rawat Inap\n
+            3. Rawat Intensif\n
+            4. Rawat Darurat\n
+            5. Unit Penyakit Jantung dan Pembuluh Darah\n
+            6. Unit Geriatri\n
+            7. Paviliun Garuda\n
+            8. Rehabilitasi Medik\n\n
+            FASILITAS PENUNJANG\n
+            1. Radiologi\n
+            2. Pusat Diagnostik Klinik\n
+            3. Laboratorium\n
+            4. Farmasi\n</item>
+        <item>
+            FASILITAS RAWAT JALAN\n
+            1. IGD (Instalasi gawat darurat)\n
+            2. Poliklinik Umum \n
+            3. Poli Spesialis \n
+            FASILITAS RAWAT INAP\n
+            1. Angela\n
+            2. Anna\n
+            3. Fransiskus\n
+            4. Lukas\n
+            5. Maria\n
+            6. Magdalena Daemen\n
+            7. Theresia\n
+            8. Vincentius\n
+            9. Xaverius\n
+            10. Yosep\n
+            FASILITAS PENDUKUNG\n
+            1. Area Olahraga\n
+            2. Askes Center\n
+            3. Food Courd\n
+            4. Taman Bermain\n
+            5. Catering Gizi\n
+            6. Customer Service\n
+            7. Parkir\n</item>
+        <item>
+            1. Pelayanan Medis\n
+            2. Pelayanan Penunjang\n
+            3. Medical Check Up\n
+            4. Dokter Umum\n
+            5. Dokter Gigi\n
+            6. Dokter Spesialis / Sub-Spesialis\n
+            7. Anak\n
+            8. Bedah\n
+            9. Kebidanan dan Kandungan\n
+            10. Penyakit Dalam\n
+            11. THT\n
+            12. Mata\n
+            13. Kulit dan Kelamin\n
+            14. Laboratorium Patologi Klinik\n
+            15. X-Ray\n
+            16. ECG\n
+            17. Echocardiografi\n
+            18. Laparoskopi\n
+            19. Konsultasi Gizi\n
+            20. Farmasi\n
+            21. Fasilitas\n
+            22. UGD 24 Jam\n
+            23. Rawat Jalan\n
+            24. Rawat Inap\n
+            25. Kamar Bedah\n</item>
+        <item>
+            1. Ambulance\n
+            2. Laboratorium\n
+            3. Radiologi\n
+            4. Rawat Inap\n
+            5. Rehabilitation\n
+            6. Ruang UGD\n
+            7. Convenient Store\n
+            8. Kafe / Kantin\n
+            9. Musholla\n
+            10. Parkir\n
+            11. Ruang Tunggu\n</item>
+        <item>
+            1. UGD 24 jam\n
+            2. Laboratorium Patologi Klinik\n
+            3. ICU\n
+            4. ICCU\n
+            5. Rawat Inap\n
+            6. Rawat Jalan\n
+            7. Farmasi\n
+            8. Hemodialisa\n
+            9. Kamar Bedah\n</item>
+        <item>
+            1. Laboratorium Klinik\n
+            2. Laboratorium Patology Anatomi\n
+            3. Mikrobiologi\n
+            4. Instalasi Farmasi\n
+            5. Instalasi Radiologi\n</item>
+    </string-array>
+    <string-array name="fasilitas_rs">
+        <item>
+            1. Bedah Epilepsi\n
+            2. Geriatri\n
+            3. Leptospira : Rapid Diagnostic Test, Kultur Leptospira, Microscopic Agglutination Test\n
+            4. Operasi Transplantasi Ginjal\n
+            5. Operasi Transplantasi Sumsum Tulang Belakang\n
+            6. Operasi Penyesuaian Kelamin.\n
+            7. Operasi Kembar Siam.\n
+            8. Operasi Jantung Terbuka.\n
+            9. Operasi Prothesa Penis.\n
+            10. Operasi Cangkok Hati.\n
+            11. Team Hospital Infection.\n
+            12. Transplatasi Organ\n</item>
+        <item>
+            1. Laktasi\n
+            2. Unit Stroke\n
+            3. Rehabilitasi Medik\n
+            4. Instalasi Bedah Sentral dan CSSD\n
+            5. Intensive Care Unit\n
+            6. Instalasi Laboratorium\n
+            7. Farmasi\n
+            8. Radiologi\n
+            9. Hemodialisa\n
+            10. High Nursing Dependancy\n
+            11. Medical Checkup\n</item>
+        <item>
+            1. BPJS\n
+            2. Rehab Medic\n
+            3. Pelayanan Mata\n
+            4. Penyakit Dalam\n
+            5. THT\n
+            6. Gigi\n
+            7. Obgin\n
+            8. Ruang Perawatan Umum\n
+            9. Ruang Inap Kelas VVIP\n
+            10. Ruang Inap Kelas VIP\n
+            11. Ruang Inap Kelas Utama\n
+            12. Ruang Inap Kelas 1\n
+            13. Ruang Inap Kelas 2 dan 3\n
+            14. Ruang Operasi\n
+            15. ICU\n
+            16. UGD\n
+            17. Ambulance\n</item>
+        <item>
+            1. Andrologi\n
+            2. Bedah Plastik\n
+            3. Endokrinologi\n
+            4. Gastroenterologi\n
+            5. Gigi dan Mulut\n
+            6. Ginekologi\n
+            7. Gizi Klinik\n
+            8. Kardiologi\n
+            9. Kedokteran Umum\n
+            10. Laboratorium Klinik\n
+            11. Neurologi\n
+            12. Onkologi\n
+            13. Optalmologi\n
+            14. Ortopedi\n
+            15. Pediatri\n
+            16. Pulmonologi\n
+            17. Radiologi\n
+            18. Telinga Hidung Tenggorok Bedah Kepala Leher (THT KL)\n
+            19. Urologi\n</item>
+        <item>
+            1. Medical Checkup\n
+            2. Dokter Umum\n
+            3. Dokter Gigi\n
+            4. Dokter Spesialis Anak\n
+            5. Dokter Spesialis Bedah\n
+            6. Dokter Spesialis Kebidanan dan Kandungan\n
+            7. Dokter Spesialis Penyakit Dalam\n
+            8. Dokter Spesialis THT\n
+            9. Dokter Spesialis Mata\n
+            10. Dokter Spesialis Kulit dan Kelamin\n
+            11. Dokter Spesialis Jantung\n
+            12. Dokter Spesialis Bedah Tulang\n
+            13. Dokter Spesialis Syaraf\n</item>
+        <item>
+            1. Sultan Agung Cardiac Center\n
+            2. Sultan Agung Eye Center\n
+            3. Sultan Agung Lasik Center\n
+            4. Sultan Agung Medical Rehabilitation Center\n
+            5. Sultan Agung Stroke Center\n
+            6. Sultan Agung Oncology Center\n
+            7. Sultan Agung Diabetic Center\n
+            8. Sultan Agung Urology Center\n
+            9. Sultan Agung ENT Center\n
+            10. Sultan Agung Pain Center\n
+            11. Sultan Agung Skin Center\n
+            12. Medical Tourism\n
+        </item>
+    </string-array>
+
+    <string-array name="koordinat_bpjs">
+        <item>-6.985761, 110.412653</item>
+        <item>-6.992418, 110.404910</item>
+        <item>-7.202490, 110.422733</item>
+        <item>-6.975797, 110.435783</item>
+        <item></item>
+    </string-array>
+    <string-array name="judul_rsbpjs">
+        <item>Rumah Sakit Hermina</item>
+        <item>Rumah Sakit IA Anugerah</item>
+        <item>Rumah Sakit Ken Saras Ungaran</item>
+        <item>Rumah Sakit Bersalin Kusuma</item>
+        <item>Rumah Sakit Bersalin Soegijopranoto</item>
+    </string-array>
+    <string-array name="keterangan_rsbpjs">
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+        <item>""</item>
+    </string-array>
+    <string-array name="detail_rsbpjs">
+        <item>
+            1. Kunjungan Rumah\n
+            2. Kursus Prapersalinan dan Menyusui\n
+            3. Kursus Perawatan Bayi\n
+            4. Kursus Pijat Bayi\n
+            5. Kursus Senam Hamil\n
+            6. Kursus Senam Nifas\n
+            7. Seminar Kesehatan\n
+            8. Pelayanan Ambulance\n
+            9. Ruang Menyusui\n10. Salon Kecantikan\n11. Gymnastic\n12. Pembuatan Akte Lahir / Surat Kenal Lahir\n13. Pembuatan Surat Keterangan Lahir dengan Foto Bayi\n14. FETOMATERNAL\n15. PERINA\n16. NICU/PICU/ICU\n17. KLINIK TUMBUH KEMBANG\n18. GIGI SPESIALISTIK\n</item>
+        <item>
+            1. LOBBY\n
+            2. PHARMACY STORE\n
+            3. ROOMS\n
+            4. SWIMMING POOL\n
+            5. LABORATORY\n
+            6. CAFE\n
+            7. INVIYA STORE\n
+            8. LIBRARY\n
+            9. GARDEN\n</item>
+        <item>
+            1. Rawat Inap\n
+            2. Rawat Jalan\n
+            3. Farmasi\n
+            4. Instalasi Gizi\n
+            5. Instalasi Laboratorium\n</item>
+        <item>
+            1. Rawat Jalan\n
+            2. Ruang pendaftaran\n
+            3. 3 Ruang tunggu yang luas dan nyaman\n
+            4. 5 Kamar praktek / periksa\n
+            5. Instalasi Farmasi\n
+            6. Instalasi Radiologi\n
+            7. Instalasi Gawat Darurat\n
+            8. Ruang USG\n
+            9. Ruang BMD\n
+            10. Laboratorium\n
+            11. Kafetaria\n
+            12. Rawat Inap\n
+            13. Musholla\n
+            14. Ruang Boga,Senam,PErpustakaan\n</item>
+        <item>
+            1. Balai Pengobatan Umum\n
+            2. BKIA, KB, Ibu Hamil\n
+            3. Klinik Gigi\n
+            4. Laboratorium\n
+            5. Rumah Bersalin\n
+            6. Konsultasi Psikologi\n</item>
+    </string-array>
+    <string-array name="fasilitas_rsbpjs">
+        <item>
+            1. Layanan Kebidanan dan Penyakit Kandungan\n2. Layanan Kesehatan Anak\n3. Layanan Penyakit Dalam\n4. Layanan Bedah\n
+            5. Pelayanan Klinik Khusus\n6. Fetomaternal\n7. Perina\n8. NICU\n9. PICU\n10. ICU\n11. KTK\n12. Gigi Spesialistik\n
+        </item>
+        <item>
+            1. COLPOSCOPY\n
+            2. CONIZATION\n
+            3. CRYOSURGERY\n
+            4. DELIVERY SUITE ROOM\n
+            5. HYSTEROSCOPY\n
+            6. LAPAROSCOPIC\n
+            7. PEDIATRIC CLINIC\n
+            8. DENTAL CLINIC\n
+            9. OBGYN CLINIC\n
+            10. USG COLOUR DOPPLER\n</item>
+        <item>
+            1. Unit Medical CheckUp\n
+            2. Instalasi Bedah Sentral\n
+            3. Instalasi Care Unit\n</item>
+        <item>
+            1. Pelayanan 24 jam : Persalinan, keguguran, keluhan reproduksi dan kehamilan \n
+            2. Pelayanan Sore Hari : periksa kehamilan, menopause, pencegahan dini untuk tumor dan kanker\n
+            3. Diagnostic and General Check Up\n
+        </item>
+        <item>
+            1. Klinik Gigi\n
+            2. Konsultasi Psikologi\n</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+</resources>

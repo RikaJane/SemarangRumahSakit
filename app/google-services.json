@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "323477643692",
+    "firebase_url": "https://semaranghospital.firebaseio.com",
+    "project_id": "semaranghospital",
+    "storage_bucket": "semaranghospital.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323477643692:android:ef7106b2136dd767",
+        "android_client_info": {
+          "package_name": "com.rika.semarangrs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323477643692-ctd7jtvqna2fe62blqnvaiqhcuu0qbt8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rika.semarangrs",
+            "certificate_hash": "47db98c0059b3a504aa02b105d50f9ed8a8e51cf"
+          }
+        },
+        {
+          "client_id": "323477643692-raijcs5vas3a6t9i38pb3gk5vtkrodtg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZva8hP76CZR3zccM1pxszmaeJ0JOq6kM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323477643692-raijcs5vas3a6t9i38pb3gk5vtkrodtg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
